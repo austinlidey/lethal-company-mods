@@ -1,2 +1,2 @@
 # lethal-company-mods
-This is a general repository for all my lethal company mods.
+This repository contains submodules which represent my individual mods I've developed.
