@@ -1,3 +1,6 @@
 [submodule "Hoarder-Bug-Donnie"]
 	path = Hoarder-Bug-Donnie
 	url = https://github.com/author-chaos/Hoarder-Bug-Donnie
+[submodule "Macho-Flowerman"]
+	path = Macho-Flowerman
+	url = git@github.com:author-chaos/Macho-Flowerman.git
